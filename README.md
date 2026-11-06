@@ -237,4 +237,4 @@ This repository serves as the official landing page for Rising Antivirus. The so
 **Get the most recent version of Rising Antivirus today!**
 
 ---
-**Last updated:** 2026-11-05 21:21:04 UTC
+**Last updated:** 2026-11-06 02:01:46 UTC
